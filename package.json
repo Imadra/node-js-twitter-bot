@@ -1,0 +1,22 @@
+{
+  "name": "node-js-twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imadra/node-js-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imadra/node-js-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Imadra/node-js-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
